@@ -1,0 +1,12 @@
+body {
+	background: #333;
+	color: white;
+	font-family: Arial;
+	text-align: center;
+	padding-top: 1rem;
+}
+
+.container {
+	width: 181px;
+	margin: 3rem auto;
+}
